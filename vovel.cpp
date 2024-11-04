@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    char arr[10] = {'A','E','I','O','U'};
+    char arr[10] = {'A','E','I','O','U','a','e','i','o','u'};
     char input;
     cout<<"Enter an alphabet: ";
     cin>>input;
