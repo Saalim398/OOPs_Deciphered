@@ -9,7 +9,7 @@ int main(){
     {
         if (arr[i]==input)
         {
-            cout<<"Vovel";
+            cout<<"Vowel";
             break;
         }
         
