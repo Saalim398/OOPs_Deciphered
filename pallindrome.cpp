@@ -16,6 +16,4 @@ int main(){
     }
     else cout<<"Not a pallindrome";
     return 0;
-    
-
 }
