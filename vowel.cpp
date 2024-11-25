@@ -5,17 +5,16 @@ int main(){
     char input;
     cout<<"Enter an alphabet: ";
     cin>>input;
+    
     for (int i = 0; i < sizeof(arr); i++)
     {
         if (arr[i]==input)
         {
-            cout<<"Vovel";
+            cout<<"Vowel";
             break;
-        }
-        
-        
-    }
+        }        
     cout<<"Not a vowel";
+    }
     return 0;
     
 
