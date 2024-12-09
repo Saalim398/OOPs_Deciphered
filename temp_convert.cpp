@@ -35,7 +35,7 @@ int main(){
         fah(temp);
         
         break;
-    
+
     default:
         cout<<"Wrong input";
         break;
