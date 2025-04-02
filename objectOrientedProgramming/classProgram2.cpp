@@ -28,10 +28,12 @@ public:
     {
         this->width = wid;
     }
+
     int getWidth()
     {
         return width;
     }
+
     int claculateArea()
     {
         return length * width;
